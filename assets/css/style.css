@@ -1,0 +1,62 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: grey;
+}
+
+#background {
+	background-repeat: no-repeat;
+	background-size: 70%;
+	max-width: 700px;
+}
+
+#sports-form {
+	float: left;
+}
+
+#searchTitle{
+	color: red;
+
+}
+
+
+
+
+input {
+	align-content: center;
+}
+
+#sportsView {
+	float: left;
+	color: red;
+
+
+}
+
+#buttonsView{
+	color: red;
+}
+
+#addsports{
+	color: red;
+}
+
+
+button{
+	margin: 10px;
+
+}
+
+div{
+	margin: 10px;
+}
+
+form{
+	margin: 10px;
+}
+
+input {
+	margin: 10px;
+}
